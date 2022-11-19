@@ -1,6 +1,13 @@
-//@ts-check
+// @ts-check
 
 const {add, subtract, divide, multiply} = require('./calculator');
+
+
+/**
+ * @file index.js is the root file for this example app
+ * @author Trung Nguyen
+ * @see  <a href="https://github.com/TrungNguyen1409"> Trung Nguyen </a>
+ */
 
 /**
  * Student Name
